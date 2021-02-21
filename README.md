@@ -1,2 +1,2 @@
 # yurinsky.github.com
-Respository for DevOps module at MIT
+Respository for DevOps module at MIT and web page
